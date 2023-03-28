@@ -1,0 +1,11 @@
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\bin\Debug\Test CSharp.exe.config
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\bin\Debug\Test CSharp.exe
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\bin\Debug\Test CSharp.pdb
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test CSharp.csproj.AssemblyReference.cache
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test_CSharp.Videojuegos.resources
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test_CSharp.Properties.Resources.resources
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test CSharp.csproj.GenerateResource.cache
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test CSharp.csproj.CoreCompileInputs.cache
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test CSharp.exe
+C:\Users\imasu\source\repos\Test CSharp\Test CSharp\obj\Debug\Test CSharp.pdb
